@@ -1,90 +1,92 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 📦 Jiko Food App Website - Project Documentation
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
+## Overview
+The Jiko Food App website is a responsive, four-page website designed to showcase the Jiko food delivery application. The website includes Home, About, Services, and Contact pages, each with unique content and functionality. 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## 🎯 Purpose
 
-Before you write any code, take time to plan:
+The purpose of this project is to:
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+Present Jiko Food App in a professional web format.
 
-**Goal:** Show intentional structure and user journey across the site.
+Practice and demonstrate front-end development skills.
 
----
+Provide a working template that can be deployed live using GitHub Pages.
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
 
-Using your plan, begin building:
+## 🌟 Features
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+Responsive Design: Fully responsive layout that works on mobile, tablet, and desktop devices
 
-Each page should:
+Modern UI/UX: Clean, attractive design with Jiko's brand colors and styling
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+Interactive Elements: JavaScript functionality for testimonial slider, FAQ accordion, and form validation
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+Semantic HTML5: Proper use of semantic HTML elements for better accessibility and SEO
 
----
+CSS3 Styling: Modern CSS features including Flexbox, Grid, and responsive media queries
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 📂 Project Structure
 
-Before deployment, refactor your project to follow production-friendly practices:
+iJko-Website/
+├── index.html       # Home page
+├── about.html       # About page
+├── services.html    # Services page
+├── contact.html     # Contact page
+├── css/
+│   └── style.css    # Stylesheet
+├── js/
+│   └── main.js      # JavaScript for navigation, slider, and form validation
+├── images/
+└── README.md        # Project documentationFile Structure🎯 Part 1: Planning and Organizing a Multipage Website
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+## Technologies Used
+HTML5 for semantic structure
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+CSS3 for styling and responsive design
 
----
+JavaScript for interactivity
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+Font Awesome for icons
 
-Once your project is complete, choose a method to **host your site online**.
+Google Fonts (Poppins) for typography
 
-You can use:
+## ⚙️ Setup Instructions
+Clone or download the project files
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+Ensure all files are in the same directory
 
-Deploy your project and confirm that:
+Open index.html in a web browser
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+## 🌍 Live Demo
+The website can be viewed live at: https://jikofoods.netlify.app/
 
-**Goal:** Publish your work online and make it accessible to the world.
+Browser Compatibility
+Compatible with all modern browsers including: https:
 
----
+Chrome (latest)
 
-## Deliverables
+Firefox (latest)
 
-1. A GitHub repository containing:
+Safari (latest)
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+Edge (latest)
 
----
+## 🛠️  Customization
+To customize this website:
 
-## Outcome
+Modify colors in the :root CSS variables
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+Update content in the HTML files
+
+Replace images in the images folder
+
+Adjust responsive breakpoints in the CSS media queries
+
+## 📜 License
+This project is open source and available under the MIT License.
+
+
+
+
