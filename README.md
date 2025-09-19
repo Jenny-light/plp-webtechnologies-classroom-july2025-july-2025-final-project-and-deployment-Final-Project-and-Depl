@@ -31,14 +31,21 @@ CSS3 Styling: Modern CSS features including Flexbox, Grid, and responsive media 
 
 iJko-Website/
 ├── index.html       # Home page
+
 ├── about.html       # About page
+
 ├── services.html    # Services page
+
 ├── contact.html     # Contact page
+
 ├── css/
 │   └── style.css    # Stylesheet
+
 ├── js/
 │   └── main.js      # JavaScript for navigation, slider, and form validation
+
 ├── images/
+
 └── README.md        # Project documentationFile Structure🎯 Part 1: Planning and Organizing a Multipage Website
 
 ## Technologies Used
